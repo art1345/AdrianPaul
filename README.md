@@ -4,7 +4,7 @@
 <br>
 
 
-<p align="end">
+<p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=A+3rd+Year+BSIT+Student;In+National+Teachers+College" alt="Typing SVG" /></a>
 </p>
 
@@ -14,7 +14,7 @@
 
 
 	
-## **About me**
+## <picture><img src = "https://www.flaticon.com/free-animated-icon/info_15578631" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://avatars.githubusercontent.com/u/166996571?s=400&u=f4a81de7d3c8368a361bf0abcfa2fb63cd911130&v=4" width = 250px></picture>
 
