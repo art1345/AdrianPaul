@@ -16,7 +16,7 @@
 	
 ## <picture><img src="https://www.readmecodegen.com/api/social-icon?name=user&size=24&textAlignment=horizontal&link=agartiola%40gmail.com" alt="user" /></a></picture> **About me**
 
-<picture> <img align="right" src="https://avatars.githubusercontent.com/u/166996571?s=400&u=f4a81de7d3c8368a361bf0abcfa2fb63cd911130&v=4" width = 250px></picture>
+<picture> <img align="right" src="https://avatars.githubusercontent.com/u/166996571?s=400&u=f4a81de7d3c8368a361bf0abcfa2fb63cd911130&v=4" style="border-radius: 20px; width: 250px;"></picture>
 
 <br>
 
