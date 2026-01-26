@@ -14,7 +14,7 @@
 
 
 	
-## <picture><img src = "" width = 50px></picture> **About me**
+## **About me**
 
 <picture> <img align="right" src="https://avatars.githubusercontent.com/u/166996571?s=400&u=f4a81de7d3c8368a361bf0abcfa2fb63cd911130&v=4" width = 250px></picture>
 
