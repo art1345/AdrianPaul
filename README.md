@@ -20,8 +20,8 @@
 
 <br>
 
-- A passionate Network Engineer, focused on building resilient and efficient network infrastructure
-- Currently pursuing the Cisco Certified Network Associate (CCNA) certification to solidify foundational expertise in routing, switching, and network security
+- My dream to be a Network Engineer, focused on building resilient and efficient network infrastructure
+- Currently pursuing to be a Cisco Certified Network Associate (CCNA) certified to solidify foundational expertise in routing, switching, and network security
 - Applying hands-on problem-solving skills from CTF competitions to analyze networks and strengthen their defense
 
 
